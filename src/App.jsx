@@ -5,7 +5,8 @@ import Button from './Button'
 export default function App() {
   return (
     <div>
-      <h1>Hello, Redux!</h1>
+      <p>Welcome to the React - Redux project</p>
+      <h1>Hello, Redux ****</h1>
       <UserInfo />
       <Button />
     </div>
