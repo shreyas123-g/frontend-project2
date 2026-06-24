@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div>
       <p>Welcome to the React - Redux project</p>
-      <h1>Hello, Redux ****</h1>
+      <h1>Hello, Everyone</h1>
       <UserInfo />
       <Button />
     </div>
